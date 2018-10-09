@@ -1,0 +1,20 @@
+body {
+  background: rgb(189,228,255);
+}
+p {
+  color: rgb(.91,.28,.99);
+}
+h1 {
+  font-weight: bold;
+  text-decoration: underline;
+  text-align: center;
+}
+
+img {
+  float: left;
+  width: 295px;
+}
+
+ul {
+  font-size: 25px
+}
